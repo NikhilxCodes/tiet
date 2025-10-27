@@ -23,6 +23,7 @@ app.use(
       "http://localhost:5173",
       "https://hoppscotch.io",
       "https://capstone1-sigma.vercel.app",
+      "https://tiethealth.vercel.app/"
     ],
     methods: ["GET", "POST", "DELETE", "PUT"],
     credentials: true,
